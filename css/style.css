@@ -1,0 +1,12 @@
+.container-fluid{
+    margin-top: 100px;
+}
+.free{
+    width: 100%;
+    height: 60px;
+    background-color: lightgray;
+}
+.btn-primary{
+    width:170px;
+    height: 40px;
+}
